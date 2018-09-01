@@ -9,3 +9,8 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 I'll meet you over there, can't wait to get started!
+
+之前看github FB po這個課程，覺得挺有趣的html並不是重點
+
+而是你可以跟機器人互動
+練習在github上合併、直接commit
