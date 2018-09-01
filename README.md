@@ -19,6 +19,10 @@ I'll meet you over there, can't wait to get started!
 
 阿撕~可以過過管理一個倉庫的乾癮XDD
 
-趕緊到https://lab.github.com/courses看看吧
+趕緊到
+
+https://lab.github.com/courses
+
+看看吧
 
 還有很多好玩的
