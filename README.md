@@ -13,4 +13,12 @@ I'll meet you over there, can't wait to get started!
 之前看github FB po這個課程，覺得挺有趣的html並不是重點
 
 而是你可以跟機器人互動
-練習在github上合併、直接commit
+
+
+練習在github上合併(自己合併機器人的PR)、直接commit（commit機器人的檔案）
+
+阿撕~可以過過管理一個倉庫的乾癮XDD
+
+趕緊到https://lab.github.com/courses看看吧
+
+還有很多好玩的
